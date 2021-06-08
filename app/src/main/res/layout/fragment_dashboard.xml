@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/main_layout_background_color"
+    tools:context=".fragment.DashboardFragment">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="50dp"
+        android:layout_marginBottom="50dp"
+        android:padding="10dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:paddingBottom="16dp">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:id="@+id/dashboard_container_category_Niche">
+
+            <ImageView
+                android:id="@+id/dashboard_container_category_img_Niche"
+                android:layout_width="match_parent"
+                android:layout_height="180dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:scaleType="centerCrop"
+                android:src="@color/black"
+                android:background="@drawable/style_img_category_dashboard"
+                />
+
+            <TextView
+                android:id="@+id/dashboard_container_category_title_Niche"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="-60dp"
+                android:layout_marginStart="15dp"
+                android:background="@drawable/style_title_category"
+                android:text="Title"
+                android:elevation="7dp"
+                android:textColor="@color/text_category_color"
+                android:textSize="20sp"
+                />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_marginTop="10dp"
+            android:id="@+id/dashboard_container_category_Clients">
+
+            <ImageView
+                android:id="@+id/dashboard_container_category_img_Clients"
+                android:layout_width="match_parent"
+                android:layout_height="180dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:scaleType="centerCrop"
+                android:src="@color/black"
+                android:background="@drawable/style_img_category_dashboard"
+                />
+
+            <TextView
+                android:id="@+id/dashboard_container_category_title_Clients"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="-60dp"
+                android:layout_marginStart="15dp"
+                android:background="@drawable/style_title_category"
+                android:text="Title"
+                android:elevation="7dp"
+                android:textColor="@color/text_category_color"
+                android:textSize="20sp"
+                />
+
+        </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_marginTop="10dp"
+                android:id="@+id/dashboard_container_category_Competitors">
+
+                <ImageView
+                    android:id="@+id/dashboard_container_category_img_Competitors"
+                    android:layout_width="match_parent"
+                    android:layout_height="180dp"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginRight="5dp"
+                    android:scaleType="centerCrop"
+                    android:src="@color/black"
+                    android:background="@drawable/style_img_category_dashboard"
+                    />
+
+                <TextView
+                    android:id="@+id/dashboard_container_category_title_Competitors"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="-60dp"
+                    android:layout_marginStart="15dp"
+                    android:background="@drawable/style_title_category"
+                    android:text="Title"
+                    android:elevation="7dp"
+                    android:textColor="@color/text_category_color"
+                    android:textSize="20sp"
+                    />
+
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_marginTop="10dp"
+                android:id="@+id/dashboard_container_category_Portfolio">
+
+                <ImageView
+                    android:id="@+id/dashboard_container_category_img_Portfolio"
+                    android:layout_width="match_parent"
+                    android:layout_height="180dp"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginRight="5dp"
+                    android:scaleType="centerCrop"
+                    android:src="@color/black"
+                    android:background="@drawable/style_img_category_dashboard"
+                    />
+
+                <TextView
+                    android:id="@+id/dashboard_container_category_title_Portfolio"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="-60dp"
+                    android:layout_marginStart="15dp"
+                    android:background="@drawable/style_title_category"
+                    android:text="Title"
+                    android:elevation="7dp"
+                    android:textColor="@color/text_category_color"
+                    android:textSize="20sp"
+                    />
+
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_marginTop="10dp"
+                android:id="@+id/dashboard_container_category_Communication">
+
+                <ImageView
+                    android:id="@+id/dashboard_container_category_img_Communication"
+                    android:layout_width="match_parent"
+                    android:layout_height="180dp"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginRight="5dp"
+                    android:scaleType="centerCrop"
+                    android:src="@color/black"
+                    android:background="@drawable/style_img_category_dashboard"
+                    />
+
+                <TextView
+                    android:id="@+id/dashboard_container_category_title_Communication"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="-60dp"
+                    android:layout_marginStart="15dp"
+                    android:background="@drawable/style_title_category"
+                    android:text="Title"
+                    android:elevation="7dp"
+                    android:textColor="@color/text_category_color"
+                    android:textSize="20sp"
+                    />
+
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_marginTop="10dp"
+                android:id="@+id/dashboard_container_category_Mindset">
+
+                <ImageView
+                    android:id="@+id/dashboard_container_category_img_Mindset"
+                    android:layout_width="match_parent"
+                    android:layout_height="180dp"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginRight="5dp"
+                    android:scaleType="centerCrop"
+                    android:src="@color/black"
+                    android:background="@drawable/style_img_category_dashboard"
+                    />
+
+                <TextView
+                    android:id="@+id/dashboard_container_category_title_Mindset"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="-60dp"
+                    android:layout_marginStart="15dp"
+                    android:background="@drawable/style_title_category"
+                    android:text="Title"
+                    android:elevation="7dp"
+                    android:textColor="@color/text_category_color"
+                    android:textSize="20sp"
+                    />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+
+    </ScrollView>
+
+</FrameLayout>

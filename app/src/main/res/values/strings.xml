@@ -1,0 +1,98 @@
+<resources>
+    <string name="app_name">Guide for Upwork</string>
+
+
+    <string name="main_btnSystem_back">Click again to exit</string>
+
+    <!-- Indicators Google console AdMob -->
+    <string name="admob_app_id" translatable="false">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="admob_unit_id" translatable="false">ca-app-pub-3940256099942544/1033173712</string>
+
+
+    <!--Start Intro -->
+    <string name="intro_title_one">Title One</string>
+    <string name="intro_description_one">Description One</string>
+    <string name="intro_title_two">Title Two</string>
+    <string name="intro_description_two">Description Two</string>
+
+    <string name="intro_btn_next">Next</string>
+    <string name="intro_btn_begin">Begin</string>
+    <!--Final Intro -->
+
+    <!--Name Category -->
+    <string name="category_niche">Niche</string>
+    <string name="category_clients">Clients</string>
+    <string name="category_competitors">Competitors</string>
+    <string name="category_portfolio">Portfolio</string>
+    <string name="category_communication">Communication</string>
+    <string name="category_mindset">Mindset</string>
+
+    <!--Text Content -->
+    <!-- Text Niche -->
+    <string name="textContentTitle_one_Niche">Deeply specialized niche</string>
+    <string name="textContentDescription_one_Niche">Test description text ... ...</string>
+    <string name="textContentTitle_two_Niche">How to find your own way</string>
+    <string name="textContentDescription_two_Niche">Test description text ... ...</string>
+    <string name="textContentTitle_three_Niche">First task</string>
+    <string name="textContentDescription_three_Niche">Test description text ... ...</string>
+    <string name="textContentTitle_four_Niche">Register as employer</string>
+    <string name="textContentDescription_four_Niche">Test description text ... ...</string>
+    <!-- Text Clients -->
+    <string name="textContentTitle_one_Clients">Title One Clients</string>
+    <string name="textContentDescription_one_Clients">Test description text ... ...</string>
+    <string name="textContentTitle_two_Clients">Title Two Clients</string>
+    <string name="textContentDescription_two_Clients">Test description text ... ...</string>
+    <string name="textContentTitle_three_Clients">Title Three Clients</string>
+    <string name="textContentDescription_three_Clients">Test description text ... ...</string>
+    <string name="textContentTitle_four_Clients">Title Four Clients</string>
+    <string name="textContentDescription_four_Clients">Test description text ... ...</string>
+    <!-- Text Competitors -->
+    <string name="textContentTitle_one_Competitors">Title One Competitors</string>
+    <string name="textContentDescription_one_Competitors">Test description text ... ...</string>
+    <string name="textContentTitle_two_Competitors">Title Two Competitors</string>
+    <string name="textContentDescription_two_Competitors">Test description text ... ...</string>
+    <string name="textContentTitle_three_Competitors">Title Three Competitors</string>
+    <string name="textContentDescription_three_Competitors">Test description text ... ...</string>
+    <string name="textContentTitle_four_Competitors">Title Four Competitors</string>
+    <string name="textContentDescription_four_Competitors">Test description text ... ...</string>
+    <!-- Text Portfolio -->
+    <string name="textContentTitle_one_Portfolio">Title One Portfolio</string>
+    <string name="textContentDescription_one_Portfolio">Test description text ... ...</string>
+    <string name="textContentTitle_two_Portfolio">Title Two Portfolio</string>
+    <string name="textContentDescription_two_Portfolio">Test description text ... ...</string>
+    <string name="textContentTitle_three_Portfolio">Title Three Portfolio</string>
+    <string name="textContentDescription_three_Portfolio">Test description text ... ...</string>
+    <string name="textContentTitle_four_Portfolio">Title Four Portfolio</string>
+    <string name="textContentDescription_four_Portfolio">Test description text ... ...</string>
+    <!-- Text Communication -->
+    <string name="textContentTitle_one_Communication">Title One Communication</string>
+    <string name="textContentDescription_one_Communication">Test description text ... ...</string>
+    <string name="textContentTitle_two_Communication">Title Two Communication</string>
+    <string name="textContentDescription_two_Communication">Test description text ... ...</string>
+    <string name="textContentTitle_three_Communication">Title Three Communication</string>
+    <string name="textContentDescription_three_Communication">Test description text ... ...</string>
+    <string name="textContentTitle_four_Communication">Title Four Communication</string>
+    <string name="textContentDescription_four_Communication">Test description text ... ...</string>
+    <!-- Text Mindset -->
+    <string name="textContentTitle_one_Mindset">Title One Mindset</string>
+    <string name="textContentDescription_one_Mindset">Test description text ... ...</string>
+    <string name="textContentTitle_two_Mindset">Title Two Mindset</string>
+    <string name="textContentDescription_two_Mindset">Test description text ... ...</string>
+    <string name="textContentTitle_three_Mindset">Title Three Mindset</string>
+    <string name="textContentDescription_three_Mindset">Test description text ... ...</string>
+    <string name="textContentTitle_four_Mindset">Title Four Mindset</string>
+    <string name="textContentDescription_four_Mindset">Test description text ... ...</string>
+
+
+    <!--Menu name -->
+    <string name="menu_dashboard">Dashboard</string>
+    <string name="menu_setting">Setting</string>
+    <string name="menu_account">Account</string>
+
+    <!--Text Subscription -->
+    <string name="subscription_title">Subscription</string>
+    <string name="subscription_description">Subscribe to see more content information</string>
+    <string name="subscription_checkout">Checkout</string>
+
+
+</resources>
